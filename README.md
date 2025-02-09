@@ -1,6 +1,6 @@
-# HUFFMAN ENCODING CLI
+# HUFFMAN ENCODING/DECODING CLI
 
-***this is merely a hobby project and should not be used in any professional environment***   
+***this is merely a hobby project and should not be used in any professional environment. This tool only decodes files encoded using itself. It will probably produce nonsense if used elsewhere***   
 
 A simple CLI tool that encodes and decodes (text) files using the huffman compressing algorithm.
 
