@@ -1,0 +1,4 @@
+# local build and example test files
+huffman-cli
+encoded.bin
+decoded.txt
